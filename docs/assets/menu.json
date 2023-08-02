@@ -1,0 +1,118 @@
+{
+  "categories": [
+    {
+      "name": "Offer",
+      "icon": "rocket",
+      "children": [
+        {
+          "name": "Special Academy Pizza",
+          "information": "Pastrami pork belly ball tip andouille corned beef jerky shankle landjaeger. Chicken chuck porchetta picanha, ham brisket tenderloin venison meatloaf landjaeger jowl.",
+          "price": "25",
+          "id": "1"
+        },
+        {
+          "name": "Pizza Ionic",
+          "information": "Pork chop meatloaf rump, meatball shoulder turducken alcatra doner sausage capicola pork strip steak turkey cupim leberkas.",
+          "price": "19.99",
+          "id": "2"
+        }
+      ]
+    },
+    {
+      "name": "Pizza",
+      "icon": "pizza",
+      "children": [
+        {
+          "name": "Pizza Salami",
+          "information": "Pork chop jowl capicola porchetta, kielbasa prosciutto boudin bacon pork pig.",
+          "price": "10",
+          "id": "3"
+        },
+        {
+          "name": "Pizza Prosciutto",
+          "information": "Pork chop pastrami landjaeger chuck brisket",
+          "price": "12",
+          "id": "4"
+        },
+        {
+          "name": "Pizza Bombay",
+          "information": "Pastrami ham hock ball tip, tongue ribeye chuck ham beef bresaola leberkas.",
+          "price": "13",
+          "id": "5"
+        },
+        {
+          "name": "Pizza Crazy Dog",
+          "information": "Andouille spare ribs meatloaf swine ground round pork loin, brisket chuck bacon tongue.",
+          "price": "14",
+          "id": "6"
+        },
+        {
+          "name": "Pizza Italia",
+          "information": "Ribeye ham t-bone, tail ground round biltong picanha sausage rump corned beef.",
+          "price": "11",
+          "id": "7"
+        },
+        {
+          "name": "Pizza Tuna",
+          "information": "Pork chop pastrami landjaeger chuck brisket",
+          "price": "14",
+          "id": "8"
+        },
+        {
+          "name": "Pizza Academy",
+          "information": "Frankfurter tail capicola cupim shankle salami, beef ribs beef boudin porchetta ball tip leberkas turkey tenderloin.",
+          "price": "25",
+          "id": "9"
+        },
+        {
+          "name": "Pizza Ionic",
+          "information": "Shank chuck tail, kevin shankle ham hock pork loin pork hamburger beef ribs.",
+          "price": "19.99",
+          "id": "10"
+        }
+      ]
+    },
+    {
+      "name": "Salad",
+      "icon": "nutrition",
+      "children": [
+        {
+          "name": "Vegan Bowl",
+          "information": "Landjaeger fatback shank frankfurter, tongue shoulder ham strip steak pancetta pork short loin corned beef short ribs biltong cow",
+          "price": "8",
+          "id": "11"
+        },
+        {
+          "name": "Tuna Salad",
+          "information": "Pork chop pastrami landjaeger chuck brisket",
+          "price": "13",
+          "id": "12"
+        },
+        {
+          "name": "Greek Salad",
+          "information": "Pork chop pastrami landjaeger chuck brisket",
+          "price": "12.99",
+          "id": "13"
+        }
+      ]
+    },
+    {
+      "name": "Drinks",
+      "icon": "pint",
+      "children": [
+        {
+          "name": "Special Academy Pizza",
+          "information": "Landjaeger fatback shank frankfurter, tongue shoulder ham strip steak pancetta pork short loin corned beef short ribs biltong cow",
+          "price": "25",
+          "id": "14"
+        },
+        {
+          "name": "Pizza Ionic",
+          "information": "Pork chop pastrami landjaeger chuck brisket",
+          "price": "19.99",
+          "id": "15"
+        }
+      ]
+    }
+  ]
+}
